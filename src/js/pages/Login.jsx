@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import Form from '../components/Form';
+import FormLogin from '../components/FormLogin';
 
 class Login extends Component {
     render() {
         return (
-            <Form />
+            <FormLogin />
         );
     }
 }
